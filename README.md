@@ -7,9 +7,8 @@ Provide a definitions.py file with username and password for python script.
 install the necessary python dependencies using pip3.
 
 To load the .csv into your mysql database:
-'''
+```
 cd data
 python3 readCSV.py
-'''
-
+```
 Enjoy!
