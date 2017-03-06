@@ -12,4 +12,4 @@ cd data
 python3 readCSV.py
 '''
 
-Ejoy!
+Enjoy!
